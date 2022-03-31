@@ -1,0 +1,8 @@
+@import "~@angular/material/theming";
+
+$custom-typography: mat-typography-config(
+  $font-family: "Open Sans",
+  $headline: mat-typography-level(112px, 112px, 300, "Poppins"),
+  $title: mat-typography-level(56px, 56px, 400, "Poppins"),
+);
+@include mat-core($custom-typography);
