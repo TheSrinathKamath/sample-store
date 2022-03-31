@@ -1,2 +1,2 @@
 # sample-store
-Super fast e-commerce PWA
+Super-fast e-commerce PWA with Angular & NestJS.
